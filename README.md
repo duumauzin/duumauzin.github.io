@@ -11,6 +11,10 @@
   <a href="#planejamento">Planejamento</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 </p>
 
+<div align="center">
+[ <a href="https://duumauzin.github.io">Acesse o site aqui </a> ]
+</div>
+
 ---
 
 <img align="center" src="assets/img/readme/readme-capa.png" width="100%">
